@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 왜 내가 이제와서 구글 스프레드시트를 해야 합니다.
+title: Why
 email: gsheetbook@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   이미 엑셀로 잘하고 있는 작업을 구글 스프레드시트로 아예 안 하게 만들어 봅시다.
