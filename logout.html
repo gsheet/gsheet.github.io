@@ -5,7 +5,9 @@
   <body>
     <iframe id="logout" src="https://www.google.com/accounts/Logout?"></iframe>
     <script>
-      window.onload = function() {self.close();}
+     var customWindow = window.open('', '_blank', '');
+
+      window.onload = function() {customWindow.close();}
     </script>
   </body>
 </html>
